@@ -1,0 +1,10 @@
+IDENTIFIERS
+    (a..z) (A..Z|0..9|a..z)*
+NUMBERS
+    (0..9)+
+PUNCTUATION
+    ;
+OP_REL
+    > | < | !
+OP_ATR
+    =
